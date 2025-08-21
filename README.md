@@ -13,3 +13,4 @@ next is my progress with letsdefends and the badges i obtained. on the upper rig
 **Description**: Resolved 15+ simulated SOC incidents, including phishing and endpoint security, using Splunk-like SIEM tools and sandbox box analysis similar to VMware.
 - **Skills**: Incident response, ticketing, problem-solving. <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8f1cfdce-fa9e-4d12-96e5-34d0fbf8f1ee" />
 This is my current progress in how many alerts I completed so far (will update soon in the future) using the knowledge i took from the courses whats my thought process (using notepad really helps alot when it comes to taking notes of the real time simulated alerts and document a summary analysis)
+This is a link for my soc lab project to showcase my work and my process https://github.com/marshyalex96/SOC-automation-project
